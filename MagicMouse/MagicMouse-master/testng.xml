@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+  <test name="Test">
+    <classes>
+      <class name="automation_framework.TestCase_1"/>
+    </classes>
+  </test> <!-- Test -->
